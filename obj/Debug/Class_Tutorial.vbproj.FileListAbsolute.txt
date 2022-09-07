@@ -1,0 +1,13 @@
+C:\Users\alexa\source\repos\Class_Tutorial\bin\Debug\Class_Tutorial.exe.config
+C:\Users\alexa\source\repos\Class_Tutorial\bin\Debug\Class_Tutorial.exe
+C:\Users\alexa\source\repos\Class_Tutorial\bin\Debug\Class_Tutorial.pdb
+C:\Users\alexa\source\repos\Class_Tutorial\bin\Debug\Class_Tutorial.xml
+C:\Users\alexa\source\repos\Class_Tutorial\obj\Debug\Class_Tutorial.vbproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\Class_Tutorial\obj\Debug\Class_Tutorial.vbproj.SuggestedBindingRedirects.cache
+C:\Users\alexa\source\repos\Class_Tutorial\obj\Debug\Class_Tutorial.Form1.resources
+C:\Users\alexa\source\repos\Class_Tutorial\obj\Debug\Class_Tutorial.Resources.resources
+C:\Users\alexa\source\repos\Class_Tutorial\obj\Debug\Class_Tutorial.vbproj.GenerateResource.cache
+C:\Users\alexa\source\repos\Class_Tutorial\obj\Debug\Class_Tutorial.vbproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\Class_Tutorial\obj\Debug\Class_Tutorial.exe
+C:\Users\alexa\source\repos\Class_Tutorial\obj\Debug\Class_Tutorial.xml
+C:\Users\alexa\source\repos\Class_Tutorial\obj\Debug\Class_Tutorial.pdb
